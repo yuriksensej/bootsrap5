@@ -1,1 +1,5 @@
-/* No CSS */
+div {
+  border: solid black 1px;
+  border-collapse: collapse;
+  background-color: #dad5d5;
+}
